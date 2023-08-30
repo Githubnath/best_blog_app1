@@ -1,14 +1,14 @@
-# Blog Application
+# Best Blog Application
 
-#### A react application developed using React and Firebase with many features such as - No login: Only view blogs posted by the community | Login: View, post your own blogs, like, set your profile picture and username, update your profile information and delete your own blogs.
+#### This blog app,  is a  react application developed using React and Firebase with many features such as - No login: Only view blogs posted by the community | Login: View, post your own blogs, like, set your profile picture and username, update your profile information and delete your own blogs.
 
-## [See live demo](https://firebase-blog-app1.netlify.app/) 🖥️
+## [See live demo](https://fi 🖥️
 
 ### Getting started
 
 ```
-git clone git@github.com:Luise8/blog-app.git
-cd blog-app
+git clone git@github.com:Githubnath/best_blog_app1.git
+cd best_blog_app1
 npm install
 npm start
 ```
